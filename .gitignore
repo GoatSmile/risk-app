@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+risk-env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Local data, DB, or ephemeral folders
+data/DS-notes/
+DB/
+misc_ignore/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db

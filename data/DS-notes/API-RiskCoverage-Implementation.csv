@@ -1,0 +1,10 @@
+"API","Risk Coverage","Implementation"
+"RiskIntelligence PSTA","- Piracy threats
+- Port security audits
+- Crew change safety","Trigger alerts for high-risk ports likeAEFJR(Fujairah)"
+"MACN Incident API","- Corruption reports
+- Bribery hotspots
+- Port integrity scores","Flag risky ports likeNGAPP(Lagos)"
+"RANE Network API","- Geopolitical risks
+- Sanctions monitoring
+- Conflict zone updates","Monitor routes throughTRISK(Iskenderun)"

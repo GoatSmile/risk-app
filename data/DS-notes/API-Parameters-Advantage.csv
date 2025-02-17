@@ -1,0 +1,10 @@
+"API","Parameters","Advantage"
+"DTN Marine Weather","- 2D spectral waves
+- Black ice detection
+- Route optimization","Predict storm impacts on ETA and cargo safety"
+"Spire Maritime Weather","- Wave height/swell
+- Sea surface temp
+- 15-day forecasts","Calculate weather-related voyage risks"
+"OpenWeather Road Risk","- Surface temp
+- Precipitation intensity
+- Gov't weather alerts","Port approach route icing risks"

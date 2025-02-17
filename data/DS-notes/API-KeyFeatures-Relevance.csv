@@ -1,0 +1,9 @@
+"API","Key Features","Relevance"
+"OneOcean Ports API","- 3,100+ ports
+- Terminal/berth details
+- Regulatory compliance data","Replace static CSV with live port dimensions, cargo handling rules, and ISPS compliance status"
+"PortLog API","- Laytime estimation
+- Demurrage prediction
+- Port cost databases","Calculate port operation risks and financial exposure"
+"Sinay Ports API","- UN/LOCODE search
+- 7,000+ port geolocations","Validate port coordinates against Maersk schedules"

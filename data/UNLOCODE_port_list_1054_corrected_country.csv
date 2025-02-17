@@ -1,0 +1,1063 @@
+UNLOCODE,PORT_NAME,LAT,LON,COUNTRY_CODE,COUNTRY
+AEAJM,Ajman,25.4167,55.4333,AE,United Arab Emirates
+AEDAS,Das Island,25.15,52.8667,AE,United Arab Emirates
+AEDXB,Dubai (Port Rashid),25.25,55.2833,AE,United Arab Emirates
+AEFJR,Fujairah,25.1667,56.35,AE,United Arab Emirates
+AEJEA,Jebel Dhanna/Ruwais,25.0,55.05,AE,United Arab Emirates
+AEKLF,Khor Fakkan,25.35,56.3667,AE,United Arab Emirates
+AEMSA,Mina Saqr,25.9667,56.05,AE,United Arab Emirates
+AEMZD,Mina Zayed,24.5333,54.3833,AE,United Arab Emirates
+ALDRZ,Durres,41.3167,19.45,AL,Albania
+ALSAR,Sarande,39.8833,20.0,AL,Albania
+ALSHG,Shengjin,41.8167,19.6,AL,Albania
+ALVOA,Vlore,40.4833,19.4833,AL,Albania
+ANPHI,Philipsburg,18.0833,-63.1667,AN,Netherlands Antilles
+ANWIL,Willemstad,12.1,-68.9333,AN,Netherlands Antilles
+AOCAB,Cabinda,-5.5333,12.1833,AO,Angola
+AOLAD,Luanda,-8.8,13.25,AO,Angola
+AOLOB,Lobito,-12.3333,13.5667,AO,Angola
+AOMSZ,Namibe,-15.1833,12.1167,AO,Angola
+AOPBN,Porto Amboim,-10.7333,13.75,AO,Angola
+AOSOY,Soyo,-6.3333,12.2333,AO,Angola
+ARBHI,Bahia Blanca,-38.7833,-62.2667,AR,Argentina
+ARBUE,Buenos Aires,-34.6,-58.3667,AR,Argentina
+ARCOU,Concepcion del Uruguay,-32.4167,-58.2167,AR,Argentina
+ARCRD,Comodoro Rivadavia,-45.85,-67.4333,AR,Argentina
+ARMDQ,Mar del Plata,-38.0,-57.5333,AR,Argentina
+ARNEC,Necochea,-38.5167,-58.7667,AR,Argentina
+ARPMY,Puerto Madryn,-42.7667,-57.8833,AR,Argentina
+ARRGL,Rio Gallegos,-51.6167,-68.9667,AR,Argentina
+ARROS,Rosario,-32.95,-60.55,AR,Argentina
+ARSFN,Santa Fe,-31.65,-60.7,AR,Argentina
+ARUSH,Ushuaia,-54.8167,-68.3,AR,Argentina
+ASPPG,Pago Pago,-14.2833,-170.6833,AS,American Samoa
+AUBNE,Brisbane,-27.45,153.0667,AU,Australia
+AUCNS,Cairns,-16.9333,145.7833,AU,Australia
+AUDPO,Devonport,-41.1833,146.3667,AU,Australia
+AUDRW,Darwin,-12.4667,130.8333,AU,Australia
+AUFRE,Fremantle,-32.05,115.7333,AU,Australia
+AUGEX,Geelong,-38.15,144.3667,AU,Australia
+AUHBA,Hobart,-42.8833,147.3333,AU,Australia
+AUMEL,Melbourne,-37.8333,144.9667,AU,Australia
+AUMKY,Mackay,-21.1,149.2333,AU,Australia
+AUPAE,Adelaide,-34.85,138.5,AU,Australia
+AUSYD,Sydney,-33.9167,151.2,AU,Australia
+AUTSV,Townsville,-19.25,146.8333,AU,Australia
+AWORJ,Oranjestad,12.5167,-70.3667,AW,Aruba
+AZBAK,Baku,40.3333,49.85,AZ,Azerbaijan
+BBBGI,Bridgetown,13.1,-59.6333,BB,Barbados
+BDCGP,Chittagong,22.3167,91.8,BD,Bangladesh
+BDMGL,Mongla,22.4833,89.5833,BD,Bangladesh
+BEANR,Antwerp,51.2333,4.3833,BE,Belgium
+BEBRU,Brussels,50.8667,4.35,BE,Belgium
+BEGNE,Ghent,51.0333,3.7333,BE,Belgium
+BELGG,Liege,50.6667,5.5667,BE,Belgium
+BEZEE,Zeebrugge,51.3333,3.2167,BE,Belgium
+BGVAR,Varna,43.2167,27.9,BG,Bulgaria
+BHMIN,Mina Salman,26.2,50.6167,BH,Bahrain
+BHSIT,Sitra,26.15,50.6667,BH,Bahrain
+BJCOO,Cotonou,6.3333,2.5333,BJ,Benin
+BMBDA,Hamilton,32.2833,-64.7833,BM,Bermuda
+BMSGE,St Georges,32.3667,-64.7,BM,Bermuda
+BNKUB,Kuala Belait,4.6333,114.2,BN,Brunei
+BNMUA,Muara,5.0167,115.0667,BN,Brunei
+BRBEL,Belem,-1.4667,-48.4833,BR,Brazil
+BRFOR,Fortaleza,-3.6833,-38.55,BR,Brazil
+BRIBB,Imbituba,-28.2167,-48.6333,BR,Brazil
+BRMAO,Manaus,-3.1333,-60.0,BR,Brazil
+BRPNG,Paranagua,-25.5,-48.5,BR,Brazil
+BRPOA,Porto Alegre,-30.0833,-51.25,BR,Brazil
+BRREC,Recife,-8.0667,-34.8667,BR,Brazil
+BRRIG,Rio Grande,-32.05,-52.0833,BR,Brazil
+BRRIO,Rio de Janeiro,-22.9,-43.2,BR,Brazil
+BRSSA,Salvador,-13.0167,-38.5833,BR,Brazil
+BRSSZ,Santos,-23.9333,-46.3167,BR,Brazil
+BRVIX,Vitoria,-20.3167,-40.2833,BR,Brazil
+BSFPO,Freeport,25.0,-78.7667,BS,Bahamas
+BSNAS,Nassau,25.0833,-77.3333,BS,Bahamas
+BZBZE,Belize City,17.4833,-88.1833,BZ,Belize
+CABEC,Becancour,46.4,-72.3833,CA,Canada
+CACHV,Churchill,58.7833,-94.2,CA,Canada
+CAHAL,Halifax,44.65,-63.5667,CA,Canada
+CAHAM,Hamilton,43.2833,-79.8333,CA,Canada
+CAMTR,Montreal,45.5,-73.5833,CA,Canada
+CANNO,Nanaimo,49.1667,-123.9333,CA,Canada
+CANWE,Fraser River Port,49.35,-122.9,CA,Canada
+CASEI,Sept-Iles,50.1833,-66.3833,CA,Canada
+CASJF,St Johns,47.5667,-52.7,CA,Canada
+CASYD,Sydney,46.15,-60.2,CA,Canada
+CATHU,Thunder Bay,48.4167,-89.2167,CA,Canada
+CATOR,Toronto,43.6333,-79.3833,CA,Canada
+CATRR,Trois-Rivieres,46.3667,-72.5667,CA,Canada
+CAVAN,Vancouver,49.2833,-123.1167,CA,Canada
+CAWND,Windsor,42.3167,-83.0667,CA,Canada
+CGPNR,Pointe Noire,-4.7833,11.8167,CG,Congo
+CHBSL,Basel,47.55,7.5667,CH,Switzerland
+CIABJ,Abidjan,5.3,-4.0,CI,Ivory Coast
+CLANF,Antofagasta,-23.65,-70.4167,CL,Chile
+CLARI,Arica,-18.4667,-70.3333,CL,Chile
+CLCNR,Chanaral,-26.35,-70.6333,CL,Chile
+CLIQQ,Iquique,-20.2,-70.1333,CL,Chile
+CLPMC,Puerto Montt,-41.4667,-72.95,CL,Chile
+CLPUQ,Punta Arenas,-53.1667,-70.9,CL,Chile
+CLSAI,San Antonio,-33.5833,-71.6167,CL,Chile
+CLSVE,San Vicente,-36.7333,-73.15,CL,Chile
+CLTAL,Talcahuano,-36.6833,-73.1,CL,Chile
+CLVAP,Valparaiso,-33.0333,-71.6333,CL,Chile
+CMDLA,Douala,4.05,9.7,CM,Cameroon
+CMKBI,Kribi,2.9333,9.9333,CM,Cameroon
+CMPAB,Alberni,49.2333,-124.8,CM,Cameroon
+CMTKC,Tiko,4.0667,9.4,CM,Cameroon
+CNCAN,Guangzhou,23.1,113.2333,CN,China
+CNDLC,Dalian,38.9167,121.6667,CN,China
+CNFOC,Fuzhou,26.05,119.3,CN,China
+CNHAK,Haikou,20.0167,110.2667,CN,China
+CNLYG,Lianyungang,34.7333,119.45,CN,China
+CNNGB,Ningbo,29.8667,121.5167,CN,China
+CNNTG,Nantong,32.0,120.8,CN,China
+CNSHA,Shanghai,31.2333,121.4667,CN,China
+CNSHP,Qinhuangdao,40.0,119.5,CN,China
+CNSWA,Shantou,23.3333,116.75,CN,China
+CNTAO,Qingdao,36.05,120.3333,CN,China
+CNTSN,Tianjin,39.1,117.1667,CN,China
+CNXMN,Xiamen,24.45,118.0333,CN,China
+CNZHA,Zhanjiang,21.1833,110.4,CN,China
+COBAQ,Barranquilla,10.9667,-74.7833,CO,Colombia
+COBUN,Buenaventura,3.8833,-77.0833,CO,Colombia
+COCTG,Cartagena,10.4333,-75.55,CO,Colombia
+COPBO,Puerto Bolivar,12.2667,-71.9667,CO,Colombia
+COTCO,Tumaco,1.8167,-78.75,CO,Colombia
+COTRB,Turbo,8.0,-76.8333,CO,Colombia
+CRCAL,Caldera,9.9,-84.7167,CR,Costa Rica
+CRGLF,Golfito,8.6167,-83.1667,CR,Costa Rica
+CRPAS,Puntarenas,9.9667,-84.8333,CR,Costa Rica
+CRXQP,Quepos,9.4167,-84.1667,CR,Costa Rica
+CSBAR,Bar,42.0833,19.05,CS,Serbia and Montenegro
+CSKOT,Kotor,42.45,18.7667,CS,Serbia and Montenegro
+CUHAV,Havana,23.15,-82.35,CU,Cuba
+CUMZO,Manzanillo,20.3333,-77.2,CU,Cuba
+CUNVT,Nuevitas,21.55,-77.2667,CU,Cuba
+CUOMA,Matanzas,23.05,-81.5667,CU,Cuba
+CUSCU,Santiago de Cuba,19.8333,-75.8667,CU,Cuba
+CVPGR,Porto Grande,16.8833,-25.0,CV,Cape Verde
+CYAKT,Akrotiri,34.5667,33.0333,CY,Cyprus
+CYFMG,Famagusta,35.1167,33.95,CY,Cyprus
+CYLAT,Larnaca,35.05,33.4,CY,Cyprus
+CYLMS,Limassol,34.65,33.0333,CY,Cyprus
+CYPFO,Paphos,34.75,32.4,CY,Cyprus
+CYVAS,Vassiliko,34.7167,33.3167,CY,Cyprus
+DEBKE,Brake,53.3333,8.4833,DE,Germany
+DEBRE,Bremen,53.1167,8.75,DE,Germany
+DEBRV,Bremerhaven,53.55,8.5833,DE,Germany
+DEDUI,Duisburg,51.45,6.7167,DE,Germany
+DEDUS,Dusseldorf,51.2167,6.7833,DE,Germany
+DEEME,Emden,53.35,7.2,DE,Germany
+DEHAM,Hamburg,53.55,9.9833,DE,Germany
+DEKAE,Karlsruhe,49.05,8.3333,DE,Germany
+DEKEL,Kiel,54.3167,10.1667,DE,Germany
+DELBC,Lubeck,53.8667,10.6833,DE,Germany
+DEMHG,Mannheim,49.5333,8.5,DE,Germany
+DERSK,Rostock,54.15,12.1333,DE,Germany
+DEWVN,Wilhelmshaven,53.5333,8.1333,DE,Germany
+DJJIB,Djibouti,11.6,43.1333,DJ,Djibouti
+DKAAR,Aarhus,56.1667,10.2167,DK,Denmark
+DKEBJ,Esbjerg,55.4667,8.4333,DK,Denmark
+DKFDH,Frederikshavn,57.4667,10.55,DK,Denmark
+DKFRC,Fredericia,55.55,9.75,DK,Denmark
+DKGRE,Grenaa,56.4167,10.9333,DK,Denmark
+DKODE,Odense,55.4167,10.3833,DK,Denmark
+DKRNN,Ronne,55.0833,14.6833,DK,Denmark
+DMPOR,Portsmouth,15.5667,-61.4667,DM,Dominica
+DMRSU,Roseau,15.2833,-61.4,DM,Dominica
+DOBRX,Barahona,18.2,-71.0667,DO,Dominican Republic
+DOHAI,Rio Haina,18.4167,-70.0,DO,Dominican Republic
+DOLRM,La Romana,18.45,-69.0167,DO,Dominican Republic
+DOPOP,Puerto Plata,19.8167,-70.7,DO,Dominican Republic
+DOSDQ,Santo Domingo,18.4667,-69.9,DO,Dominican Republic
+DOSPM,San Pedro de Macoris,18.4333,-69.3,DO,Dominican Republic
+DZAAE,Annaba,36.9667,7.7833,DZ,Algeria
+DZALG,Algiers,36.75,3.05,DZ,Algeria
+DZAZW,Arzew,35.8333,-0.1333,DZ,Algeria
+DZBJA,Bejaia,36.75,5.0833,DZ,Algeria
+DZDEL,Dellys,36.9167,3.9167,DZ,Algeria
+DZGHA,Ghazaouet,35.1,-1.8667,DZ,Algeria
+DZMOS,Mostaganem,35.9333,0.0833,DZ,Algeria
+DZORN,Oran,35.7167,-0.65,DZ,Algeria
+DZSKI,Skikda,36.8833,6.9,DZ,Algeria
+DZTEN,Tenes,36.5833,1.3,DZ,Algeria
+ECESM,Esmeraldas,1.0,-79.6333,EC,Ecuador
+ECGYE,Guayaquil,-2.2667,-79.9,EC,Ecuador
+ECLLD,La Libertad,-2.2,-80.9167,EC,Ecuador
+ECMEC,Manta,-0.9167,-80.7167,EC,Ecuador
+ECPBO,Puerto Bolivar,-3.25,-80.0167,EC,Ecuador
+ECSLR,San Lorenzo,-1.1667,-78.8333,EC,Ecuador
+EEPYA,Parnu,58.3833,24.4833,EE,Estonia
+EETLL,Tallinn,59.45,24.7667,EE,Estonia
+EGDAM,Damietta,31.4667,31.75,EG,Egypt
+EGEDK,Alexandria,31.1333,29.8167,EG,Egypt
+EGPSD,Port Said,31.2667,32.3167,EG,Egypt
+EGSUZ,Suez,29.9667,32.55,EG,Egypt
+ESAGP,Malaga,36.7167,-4.4167,ES,Spain
+ESAVS,Aviles,43.5833,-5.9167,ES,Spain
+ESBCN,Barcelona,41.3333,2.1667,ES,Spain
+ESBIO,Bilbao,43.2833,-2.9333,ES,Spain
+ESCEU,Ceuta,35.8833,-5.3167,ES,Spain
+ESLPA,Las Palmas,28.0833,-15.45,ES,Spain
+ESSCT,Santa Cruz de Tenerife,28.4667,-16.2333,ES,Spain
+FIHEL,Helsinki,60.1667,24.95,FI,Finland
+FIHMN,Hamina,60.5667,27.1833,FI,Finland
+FIKOK,Kokkola,63.8333,23.1333,FI,Finland
+FIKTK,Kotka,60.4667,26.95,FI,Finland
+FILOV,Lovisa,60.4,26.2667,FI,Finland
+FIOUL,Oulu,65.0,25.4167,FI,Finland
+FIPOR,Pori,61.6,21.4833,FI,Finland
+FIRAUM,Rauma,61.1333,21.5,FI,Finland
+FITKU,Turku,60.45,22.25,FI,Finland
+FIUKI,Uusikaupunki,60.8,21.4,FI,Finland
+FIVAA,Vaasa,63.1,21.6,FI,Finland
+FJLBS,Labasa,-16.4333,179.2333,FJ,Fiji
+FJLEV,Levuka,-17.6833,178.85,FJ,Fiji
+FJLTK,Lautoka,-17.6,177.4333,FJ,Fiji
+FJSUV,Suva,-18.1333,178.4333,FJ,Fiji
+FJSVU,Savu Savu,-16.8167,179.3,FJ,Fiji
+FMPNI,Pohnpei,6.9167,158.1667,FM,Micronesia
+FOKVI,Klaksvik,62.2333,-6.5833,FO,Faroe Islands
+FOTHO,Torshavn,62.0,-6.7667,FO,Faroe Islands
+FRBOD,Bordeaux,44.8333,-0.5667,FR,France
+FRBOL,Boulogne Sur Mer,50.75,1.5667,FR,France
+FRCER,Cherbourg,49.6333,-1.6333,FR,France
+FRDKK,Dunkerque,51.05,2.3667,FR,France
+FRLEH,Le Havre,49.5,-0.1167,FR,France
+FRLPE,La Rochelle-Pallice,46.15,-1.1667,FR,France
+FRMRS,Marseille,43.3167,5.3667,FR,France
+FRNTE,Nantes-St. Nazaire,47.2333,-1.5667,FR,France
+FRPAR,Paris,48.95,2.2667,FR,France
+FRSML,St Malo,48.65,-2.0167,FR,France
+FRSXB,Strasbourg,48.5667,7.7,FR,France
+FRTLN,Toulon,43.1167,5.9167,FR,France
+FRURO,Rouen,49.4333,1.1,FR,France
+GACLZ,Cap Lopez,-0.6333,8.7,GA,Gabon
+GALBV,Libreville,0.2833,9.5,GA,Gabon
+GAOWE,Owendo,0.2833,9.5,GA,Gabon
+GAPOG,Port Gentil,-0.7167,8.8,GA,Gabon
+GBABD,Aberdeen,57.1333,2.0667,GB,United Kingdom
+GBBEL,Belfast,54.6,5.9333,GB,United Kingdom
+GBBRS,Bristol,51.5,2.7167,GB,United Kingdom
+GBDVR,Dover,51.1167,1.3,GB,United Kingdom
+GBFAL,Falmouth,50.15,5.0667,GB,United Kingdom
+GBFXT,Felixstowe,51.95,1.35,GB,United Kingdom
+GBGLW,Glasgow,55.8667,4.35,GB,United Kingdom
+GBGRG,Grangemouth,56.0167,3.7167,GB,United Kingdom
+GBHUL,Hull,53.7333,0.2333,GB,United Kingdom
+GBLEI,Leith,55.9833,3.1667,GB,United Kingdom
+GBLIV,Liverpool,53.4667,3.0167,GB,United Kingdom
+GBLON,London,51.5,0.0833,GB,United Kingdom
+GBMNC,Manchester,53.4833,2.2333,GB,United Kingdom
+GBPHD,Peterhead Bay,57.5,1.7833,GB,United Kingdom
+GBPLY,Plymouth,50.3667,4.15,GB,United Kingdom
+GBPME,Portsmouth,50.8,1.0833,GB,United Kingdom
+GBRCS,Thamesport,51.4333,0.7,GB,United Kingdom
+GBSFW,Scapa Flow,58.8833,3.0833,GB,United Kingdom
+GBSOU,Southampton,50.9,1.4,GB,United Kingdom
+GBSUL,Sullom Voe,60.45,1.2833,GB,United Kingdom
+GBTEE,Teesport,54.65,1.15,GB,United Kingdom
+GBTYN,Tyne,55.0,-1.4,GB,United Kingdom
+GEBUS,Batumi,41.65,41.6333,GE,Georgia
+GEPTI,Poti,42.15,41.6667,GE,Georgia
+GESUJ,Sukhumi,43.0167,40.9667,GE,Georgia
+GFCAY,Cayenne,4.9333,-52.3333,GF,French Guiana
+GHTEM,Tema,5.6333,0.0167,GH,Ghana
+GHTKD,Takoradi,4.8833,-1.75,GH,Ghana
+GIGIB,Gibraltar,36.1333,-5.35,GI,Gibraltar
+GLGOH,Nuuk (Godthaab),64.1667,-51.7333,GL,Greenland
+GLJHS,Holsteinsborg (Sisimiut),66.9333,-53.6667,GL,Greenland
+GLJNN,Nanortalik,60.1333,-45.2333,GL,Greenland
+GLUAK,Narsarsuaq,61.15,-45.4167,GL,Greenland
+GMBJL,Banjul,13.45,-16.5667,GM,Gambia
+GNCKY,Conakry,9.5167,-13.7167,GN,Guinea
+GNKMR,Port Kamsar,10.65,-14.6167,GN,Guinea
+GPGUS,Gustavia,17.9,-62.85,GP,Guadeloupe
+GPPTP,Pointe-a-Pitre,16.2333,-61.5333,GP,Guadeloupe
+GQBSG,Bata,1.65,11.75,GQ,Equatorial Guinea
+GQSSG,Malabo,3.75,8.7833,GQ,Equatorial Guinea
+GREEU,Eleusis,38.0333,23.55,GR,Greece
+GRGPA,Patras,38.25,21.75,GR,Greece
+GRHER,Irakilon (Heraklion),35.2667,25.15,GR,Greece
+GRKVA,Kavala,40.9167,24.4167,GR,Greece
+GRPIR,Piraeus,37.95,23.6333,GR,Greece
+GRSKG,Thessaloniki,40.6333,22.9333,GR,Greece
+GRVOL,Volos,39.3667,22.95,GR,Greece
+GTCHR,Champerico,14.3,-91.9167,GT,Guatemala
+GTPBR,Puerto Barrios,15.7167,-88.6167,GT,Guatemala
+GTSTC,Santo Tomas De Castilla,15.7,-88.6167,GT,Guatemala
+GUAPR,Apra (Agana),13.45,144.6167,GU,Guam
+GWEXO,Bissau,11.85,-15.5833,GW,Guinea-Bissau
+GYGEO,Georgetown,6.8167,-58.1667,GY,Guyana
+GYQSK,New Amsterdam,6.2333,-57.5167,GY,Guyana
+HKHKG,Hong Kong,22.3,114.1667,HK,Hong Kong
+HNLCE,La Ceiba,15.7667,-86.8333,HN,Honduras
+HNPCA,Puerto Castilla,16.0167,-86.05,HN,Honduras
+HNPCR,Puerto Cortes,15.85,-87.9333,HN,Honduras
+HNSLO,San Lorenzo,13.4,-87.4167,HN,Honduras
+HNTEA,Tela,15.7833,-87.45,HN,Honduras
+HRDBV,Dubrovnik,42.65,18.1,HR,Croatia
+HROMI,Omisalj,44.25,14.5,HR,Croatia
+HRPLE,Ploce,43.4,16.5,HR,Croatia
+HRPUY,Pula,44.9,13.9,HR,Croatia
+HRRJK,Rijeka,45.3333,14.3333,HR,Croatia
+HRSIB,Sibenik,43.7333,15.9,HR,Croatia
+HRSPU,Split,43.5,16.45,HR,Croatia
+HRZAD,Zadar,44.1167,15.2333,HR,Croatia
+HTPAP,Port Au Prince,18.54,-72.34,HT,Haiti
+IDCXP,Cilacap,-7.7,109.0,ID,Indonesia
+IDCBN,Cirebon,-6.9,108.6,ID,Indonesia
+IDKOE,Kupang,-10.2,123.6,ID,Indonesia
+IDPLM,Palembang,-2.95,104.75,ID,Indonesia
+IDSRG,Semarang,-6.9667,110.4167,ID,Indonesia
+IDSUB,Surabaya,-7.25,112.75,ID,Indonesia
+IDTPP,Tanjung Priok,-6.1333,106.85,ID,Indonesia
+IDUPG,Ujung Pandang,-5.1333,119.4,ID,Indonesia
+IEARK,Arklow,52.8,-6.15,IE,Ireland
+IEDRO,Drogheda,53.7167,-6.3,IE,Ireland
+IEDUB,Dublin,53.35,-6.2667,IE,Ireland
+IEFOV,Foynes (Shannon Foynes Port),52.6,-9.1,IE,Ireland
+IEGWY,Galway,53.2667,-9.05,IE,Ireland
+IENRS,New Ross,52.3833,-6.9333,IE,Ireland
+IEORK,Cork,51.8333,-8.2833,IE,Ireland
+IEWAT,Waterford,52.25,-7.1167,IE,Ireland
+ILAKL,Ashkelon,31.6333,34.5333,IL,Israel
+ILASH,Ashdod,31.8333,34.6333,IL,Israel
+ILETH,Eilat,29.5333,34.95,IL,Israel
+ILHAD,Hadera,32.4667,34.8833,IL,Israel
+ILHFA,Haifa,32.8167,35.0,IL,Israel
+INBOM,Bombay (Mumbai),18.9833,72.8167,IN,India
+INCCU,Calcutta (Kolkata),22.5333,88.3667,IN,India
+INCOK,Cochin,9.9667,76.25,IN,India
+INIXY,Kandla,23.0,70.2,IN,India
+INMAA,Chennai (Madras),13.1,80.2667,IN,India
+INNSA,Nhava Sheva (Jawaharlal Nehru),18.95,72.9667,IN,India
+INTUT,Tuticorin,8.75,78.1667,IN,India
+INVTZ,Vishakhapatnam,17.6833,83.3,IN,India
+IQBSR,Basra,30.55,47.7833,IQ,Iraq
+IQKAZ,Khor al Zubair,30.1833,47.9,IQ,Iraq
+IQUQR,Umm Qasr,24.9,51.5833,IQ,Iraq
+IRABD,Abadan,30.3333,48.3333,IR,Iran
+IRBAZ,Bandar Anzali,37.4667,49.4667,IR,Iran
+IRBKM,Imam Khomeini,30.4167,49.0667,IR,Iran
+IRBND,Bandar Abbas,27.1833,56.2833,IR,Iran
+IRBUZ,Bushehr,28.9833,50.8333,IR,Iran
+IRKHO,Khorramshahr,30.4333,48.1833,IR,Iran
+IRLVP,Lavan,26.7833,53.3333,IR,Iran
+IRMRX,Bandar Mahshahr,30.45,49.1667,IR,Iran
+IRSXI,Sirri Island,25.9,54.55,IR,Iran
+ISAKU,Akureyri,65.6833,-18.05,IS,Iceland
+ISHAF,Hafnarfjordur (Straumsvik),64.0667,-21.9667,IS,Iceland
+ISISA,Isafjordur,66.0833,-23.1,IS,Iceland
+ISKEV,Keflavik,64.0,-22.55,IS,Iceland
+ISREY,Reykjavik,64.1333,-21.9333,IS,Iceland
+ISVES,Vestmannaeyjar,63.4333,-20.2667,IS,Iceland
+ITAUG,Augusta,37.2167,15.2333,IT,Italy
+ITBDS,Brindisi,40.65,17.9333,IT,Italy
+ITBLN,Bagnoli,40.8,14.1667,IT,Italy
+ITBRI,Bari,41.1333,16.8667,IT,Italy
+ITGEA,Gela,37.0667,14.25,IT,Italy
+ITGOA,Genoa,44.4,8.9,IT,Italy
+ITLIV,Livorno,43.55,10.3333,IT,Italy
+ITMLZ,Milazzo,38.2167,15.2667,IT,Italy
+ITMSN,Messina,38.1833,15.5667,IT,Italy
+ITNAP,Napoli (Naples),40.8333,14.25,IT,Italy
+ITPFX,Sarroch (Porto Foxi),39.0833,9.0333,IT,Italy
+ITPMO,Palermo,38.1167,13.3333,IT,Italy
+ITPTO,Porto Torres,40.85,8.4,IT,Italy
+ITRAN,Ravenna,44.4167,12.3,IT,Italy
+ITSPE,La Spezia,44.0167,9.85,IT,Italy
+ITSVN,Savona-Vado,44.3,8.4833,IT,Italy
+ITTAR,Taranto,40.4833,17.2167,IT,Italy
+ITTRS,Trieste,45.65,13.75,IT,Italy
+ITVCE,Venice,45.4333,12.3333,IT,Italy
+JMKIN,Kingston,17.9833,-76.8333,JM,Jamaica
+JMMBJ,Montego Bay,18.5,-77.9333,JM,Jamaica
+JMPEV,Port Esquivel,17.8833,-77.1333,JM,Jamaica
+JMPOT,Port Antonio,18.2,-76.45,JM,Jamaica
+JMROP,Rocky Point,17.6333,-77.2333,JM,Jamaica
+JOAQJ,Aqaba (El Akaba),29.5167,35.0167,JO,Jordan
+JPAMA,Amagasaki,34.7,135.4,JP,Japan
+JPAXT,Akita,39.75,140.05,JP,Japan
+JPCHB,Chiba,35.6,140.1167,JP,Japan
+JPHHE,Hachinohe,40.55,141.55,JP,Japan
+JPHHR,Higashiharima,34.7167,134.75,JP,Japan
+JPHIJ,Hiroshima,34.3333,132.4167,JP,Japan
+JPHIM,Himeji,34.7833,134.6833,JP,Japan
+JPHKD,Hakodate,41.8,140.7333,JP,Japan
+JPKNU,Kimitsu,34.8667,136.95,JP,Japan
+JPKUH,Kushiro,42.9833,144.367,JP,Japan
+JPKWS,Kawasaki,35.5333,139.7667,JP,Japan
+JPMIZ,Mizushima,34.5167,133.75,JP,Japan
+JPMOJ,Moji,33.95,130.9667,JP,Japan
+JPNGO,Nagoya,35.0833,136.8833,JP,Japan
+JPOSA,Osaka,34.65,135.4333,JP,Japan
+JPSAK,Sakai,34.5667,135.45,JP,Japan
+JPSKT,Sakata,39.9333,139.8,JP,Japan
+JPSMZ,Shimizu,35.0,138.5,JP,Japan
+JPTMK,Tomakomai,42.6,141.55,JP,Japan
+JPTYO,Tokyo,35.7167,139.7667,JP,Japan
+JPUKB,Kobe,34.6667,135.2,JP,Japan
+JPYOK,Yokohama,35.45,139.65,JP,Japan
+KELAU,Lamu,-2.2833,40.9,KE,Kenya
+KEMBA,Mombasa,-4.0667,39.6667,KE,Kenya
+KHPNH,Phnom Penh,11.55,104.9167,KH,Cambodia
+KITRW,Betio (Tarawa),1.3333,172.9,KI,Kiribati
+KMMUT,Mutsamudu,-11.4,43.8333,KM,Comoros
+KMYVA,Moroni,-11.7,43.15,KM,Comoros
+KNBAS,Basseterre,17.3,-62.7167,KN,Saint Kitts and Nevis
+KPCHO,Chongjin,41.7667,129.8167,KP,North Korea
+KPHAE,Haeju,38.0,125.7,KP,North Korea
+KPNAM,Nampo,38.7333,125.4167,KP,North Korea
+KPWON,Wonsan,39.1667,127.4333,KP,North Korea
+KRCHF,Chinhae,35.1167,128.7,KR,South Korea
+KRINC,Inchon,37.4667,126.6167,KR,South Korea
+KRKPO,Pohang,36.0333,129.4333,KR,South Korea
+KRMAS,Masan,35.1833,128.6,KR,South Korea
+KRMOK,Mokpo,34.7667,126.3833,KR,South Korea
+KRPUS,Busan (Pusan),35.0833,129.0,KR,South Korea
+KRTGH,Tonghae,37.5,129.15,KR,South Korea
+KRUSN,Ulsan,35.45,129.3833,KR,South Korea
+KRYOS,Yosu (Yeosu),34.7333,127.75,KR,South Korea
+KWMEA,Mina al Ahmad,29.0667,48.1667,KW,Kuwait
+KWMIS,Mina Saud,28.75,48.4,KW,Kuwait
+KWSWK,Shuwaikh,29.35,47.9333,KW,Kuwait
+KYGEC,Georgetown,19.3,-81.3833,KY,Cayman Islands
+LBBEY,Beirut,33.9,35.5,LB,Lebanon
+LBCHK,Chekka,34.3,35.6,LB,Lebanon
+LBKYE,Tripoli,34.4667,35.8167,LB,Lebanon
+LBSDN,Sidon,33.5,35.35,LB,Lebanon
+LBSEL,Selaata,34.2833,35.6667,LB,Lebanon
+LCSLU,Castries (St Lucia),14.0167,-61.0,LC,Saint Lucia
+LCVIF,Vieux Fort,13.7167,-60.9667,LC,Saint Lucia
+LKCMB,Colombo,6.9333,79.85,LK,Sri Lanka
+LKJAF,Jaffna,9.6667,80.0167,LK,Sri Lanka
+LKTRR,Trincomalee,8.6,81.2167,LK,Sri Lanka
+LRGRE,Greenville,4.9833,-9.05,LR,Liberia
+LRMLW,Monrovia,6.3333,-10.8333,LR,Liberia
+LRUCN,Buchanan,5.9,-10.0667,LR,Liberia
+LTKLJ,Klaipeda,55.7167,21.1167,LT,Lithuania
+LURIX,Riga,56.9667,24.1,LU,Luxembourg
+LVLPX,Liepaja,56.5,21.0,LV,Latvia
+LVVNT,Ventspils,57.4,21.55,LV,Latvia
+LYBEN,Bingazi (Benghazi),32.1,20.05,LY,Libya
+LYDNF,Derna,32.7667,22.65,LY,Libya
+LYLMQ,Marsa El Brega,30.4167,19.5667,LY,Libya
+LYMRA,Misurata (Qasr Ahmed),32.3667,15.2167,LY,Libya
+LYRLA,Ras Lanuf,30.5167,18.5833,LY,Libya
+LYTIP,Tripoli,32.9,13.2167,LY,Libya
+LYTOB,Tobruk,32.0667,24.0,LY,Libya
+LYZUA,Zuara,32.9167,12.1167,LY,Libya
+MAAGA,Agadir,30.4333,-9.6333,MA,Morocco
+MACAS,Casablanca,33.6,-7.6167,MA,Morocco
+MAELJ,El Jadida,33.2667,-8.6333,MA,Morocco
+MAMOH,Mohammedia,33.75,-7.3667,MA,Morocco
+MANNA,Kenitra,34.2667,-6.5833,MA,Morocco
+MASFI,Safi,32.3167,-9.2,MA,Morocco
+MATNG,Tangier,35.7833,-5.8,MA,Morocco
+MCMON,Monaco,43.7333,7.45,MC,Monaco
+MGDIE,Anisiranana (Diego Suarez),-12.2167,49.3167,MG,Madagascar
+MGMJN,Majunga (Mahajanga),-15.7167,46.3333,MG,Madagascar
+MGTLE,Tulear (Toliara),-23.35,43.6667,MG,Madagascar
+MGTOA,Toamasina (Tamatave),-18.1333,49.3667,MG,Madagascar
+MGWAR,Warri,5.5,5.7333,MG,Madagascar
+MMBSX,Bassein,16.75,94.7167,MM,Myanmar
+MMMNU,Moulmein,16.4833,97.6167,MM,Myanmar
+MMRGN,Yangon,16.7833,96.25,MM,Myanmar
+MOMFM,Macau,22.2,113.55,MO,Macau
+MPSPN,Saipan,15.2167,145.7333,MP,Northern Mariana Islands
+MQFDF,Fort de France,14.6,-61.0667,MQ,Martinique
+MRNDB,Nouadhibou,20.8167,-17.05,MR,Mauritania
+MRNKC,Nouakchott,18.0333,-16.0333,MR,Mauritania
+MSPLY,Plymouth,16.7,-62.2167,MS,Montserrat
+MTMLA,Valletta,35.9,14.5167,MT,Malta
+MUPLU,Port Louis,-20.15,57.5,MU,Mauritius
+MXACA,Acapulco,16.85,-99.9333,MX,Mexico
+MXCOA,Coatzacoalcos,18.1333,-94.4167,MX,Mexico
+MXGYM,Guaymas,27.9167,-110.8833,MX,Mexico
+MXLAP,La Paz,24.1667,-110.3167,MX,Mexico
+MXLZC,Lazaro Cardenas,17.8833,-102.1667,MX,Mexico
+MXMZT,Mazatlan,23.1833,-106.4333,MX,Mexico
+MXPGO,Progresso,21.2833,-89.65,MX,Mexico
+MXSCX,Salina Cruz,16.1667,-95.2,MX,Mexico
+MXTAM,Tampico,22.2667,-97.7833,MX,Mexico
+MXTPB,Topolobampo,25.6,-109.05,MX,Mexico
+MXTUX,Tuxpan,20.95,-97.4,MX,Mexico
+MXVER,Veracruz,19.2,-96.1333,MX,Mexico
+MXZLO,Manzanillo,19.05,-104.3333,MX,Mexico
+MYBKI,Kota Kinabalu,5.95,116.0833,MY,Malaysia
+MYBTU,Bintulu,3.1667,113.0333,MY,Malaysia
+MYKCH,Kuching,1.55,110.3333,MY,Malaysia
+MYKUA,Kuantan,3.7833,103.3333,MY,Malaysia
+MYKUD,Kudat,6.8,116.8333,MY,Malaysia
+MYLBU,Labuan,5.3,115.25,MY,Malaysia
+MYLUM,Lumut,4.2667,100.3667,MY,Malaysia
+MYMYY,Miri,4.4,113.9833,MY,Malaysia
+MYPDI,Port Dickson,2.55,101.9,MY,Malaysia
+MYPEN,Penang,5.4167,100.3333,MY,Malaysia
+MYPGU,Pasir Gudang,1.4833,103.8,MY,Malaysia
+MYPKL,Port Klang,3.0333,101.4,MY,Malaysia
+MYSBW,Sibu,2.3,111.8,MY,Malaysia
+MYSDK,Sandakan,6.1167,116.0833,MY,Malaysia
+MYTPP,Tanjung Pelepas,1.45,103.75,MY,Malaysia
+MYTWU,Tawau,4.25,117.8,MY,Malaysia
+MZBEW,Beira,-19.8333,34.8333,MZ,Mozambique
+MZINH,Inhambane,-23.8667,35.4,MZ,Mozambique
+MZMNC,Nacala,-14.2,40.7,MZ,Mozambique
+MZMFM,Maputo,25.9667,32.5667,MZ,Mozambique
+MZPOL,Pemba,12.95,40.5,MZ,Mozambique
+MZUEL,Quelimane,17.8833,36.8833,MZ,Mozambique
+NALUD,Luderitz,26.65,15.15,NA,Namibia
+NAWVB,Walvis Bay,22.95,14.5,NA,Namibia
+NCNOU,Noumea,22.2667,166.45,NC,New Caledonia
+NCTHI,Thio,21.6167,166.25,NC,New Caledonia
+NGCBQ,Calabar,4.9667,8.3167,NG,Nigeria
+NGLOS,Lagos,6.45,3.4,NG,Nigeria
+NGONN,Onne,4.65,7.15,NG,Nigeria
+NGPHC,Port Harcourt,4.7667,7.0,NG,Nigeria
+NGSPL,Sapele,5.9167,5.75,NG,Nigeria
+NGTIN,Tin Can Island,6.4167,3.3,NG,Nigeria
+NGWAR,Warri,5.3,5.7,NG,Nigeria
+NIBEF,Bluefields,12.0167,-83.75,NI,Nicaragua
+NICIO,Corinto,12.5,-87.1833,NI,Nicaragua
+NIELB,El Bluff,12.0,-83.6833,NI,Nicaragua
+NIPSN,Puerto Sandino,12.2,-86.7667,NI,Nicaragua
+NIPUZ,Puerto Cabezas,14.0167,-83.3833,NI,Nicaragua
+NISJS,San Juan Del Sur,11.2333,-85.8667,NI,Nicaragua
+NLAMS,Amsterdam,52.3667,4.9,NL,Netherlands
+NLDOR,Dordrecht,51.8167,4.6667,NL,Netherlands
+NLDZL,Delfzijl,53.3333,6.9333,NL,Netherlands
+NLEEM,Eemshaven,53.45,6.8333,NL,Netherlands
+NLGRO,Groningen,53.2167,6.5667,NL,Netherlands
+NLLIM,IJmuiden,52.45,4.5833,NL,Netherlands
+NLRTM,Rotterdam,51.9167,4.4,NL,Netherlands
+NLTNZ,Terneuzen,51.3333,3.8333,NL,Netherlands
+NOBOO,Bergen,60.4,5.3167,NO,Norway
+NODRM,Drammen,59.75,10.2167,NO,Norway
+NOHAU,Haugesund,59.4167,5.2667,NO,Norway
+NOHFT,Hammerfest,70.6667,23.6667,NO,Norway
+NOHRD,Harstad,68.8,16.65,NO,Norway
+NOKRS,Kristiansand,58.15,8.0,NO,Norway
+NOLAR,Larvik,59.05,10.0333,NO,Norway
+NOOSL,Oslo,59.9,10.7167,NO,Norway
+NOSVG,Stavanger,58.9667,5.7333,NO,Norway
+NOTRD,Trondheim,63.4167,10.4,NO,Norway
+NRINU,Nauru Island,0.5333,166.9167,NR,Nauru
+NZAKL,Auckland,36.85,174.75,NZ,New Zealand
+NZTRG,Tauranga,37.65,176.1833,NZ,New Zealand
+NZWLG,Wellington,41.2833,174.7833,NZ,New Zealand
+PACTB,Cristobal,9.35,-79.9167,PA,Panama
+PAONX,Colon,9.3667,-79.9167,PA,Panama
+PAVAC,Vacamonte,8.85,-79.6667,PA,Panama
+PECHM,Chimbote,9.0833,-78.6167,PE,Peru
+PECLL,Callao,12.05,-77.1667,PE,Peru
+PEILO,Ilo,17.65,-71.35,PE,Peru
+PEMRI,Matarani,17.0,-72.1167,PE,Peru
+PEPAI,Paita,5.0833,-81.2833,PE,Peru
+PESVY,Salaverry,8.2167,-78.9833,PE,Peru
+PETVL,Talara,4.5833,-81.2833,PE,Peru
+PFPPT,Papeete,-17.55,-149.5667,PF,French Polynesia
+PGKIE,Kieta,6.2167,155.6333,PG,Papua New Guinea
+PGLAE,Lae,6.7333,146.9833,PG,Papua New Guinea
+PGMAG,Madang,5.2167,145.8167,PG,Papua New Guinea
+PGPOM,Port Moresby,9.4833,147.15,PG,Papua New Guinea
+PGRAB,Rabaul,4.2,152.1667,PG,Papua New Guinea
+PHBTG,Batangas,13.75,121.05,PH,Philippines
+PHCEB,Cebu,10.3,123.8833,PH,Philippines
+PHDVO,Davao,7.1,125.6333,PH,Philippines
+PHILO,Iloilo,10.6833,122.5667,PH,Philippines
+PHJOL,Jolo,6.05,121.0,PH,Philippines
+PHLGP,Legaspi,13.1333,123.75,PH,Philippines
+PHMNL,Manila,14.5833,120.9667,PH,Philippines
+PHPPS,Princesa,9.3333,118.0,PH,Philippines
+PHSFE,San Fernando,14.5833,121.0167,PH,Philippines
+PHSFS,Subic Bay,14.8167,120.2833,PH,Philippines
+PHZAM,Zamboanga,6.9167,122.0833,PH,Philippines
+PKBQM,Muhammad Bin Qasim,24.9,66.9667,PK,Pakistan
+PKKHI,Karachi,24.8167,66.9833,PK,Pakistan
+PLGDN,Gdansk,54.35,18.65,PL,Poland
+PLGDY,Gdynia,54.5333,18.5667,PL,Poland
+PLKOL,Kolobrzeg,54.1833,15.5667,PL,Poland
+PLSWI,Swinoujscie,53.9167,14.25,PL,Poland
+PLSZZ,Szczecin,53.4167,14.5333,PL,Poland
+PLUST,Ustka,54.5833,16.8667,PL,Poland
+PMFSP,St Pierre,46.7833,-56.1667,PM,Saint Pierre and Miquelon
+PRGUX,Guanica Harbour,17.95,-66.9,PR,Puerto Rico
+PRGUY,Guayanilla,18.0,-66.7667,PR,Puerto Rico
+PRLAM,Las Mareas,17.9167,-66.1667,PR,Puerto Rico
+PRPSE,Ponce,17.9833,-66.6167,PR,Puerto Rico
+PRSJU,San Juan,18.4667,-66.1167,PR,Puerto Rico
+PTAVE,Aveiro,40.65,-8.75,PT,Portugal
+PTLEI,Leixoes,41.1833,-8.7167,PT,Portugal
+PTLIS,Lisbon,38.7,-9.1,PT,Portugal
+PTPRM,Portimao,37.1,-8.5333,PT,Portugal
+PTSET,Setubal,38.5,-8.9167,PT,Portugal
+PTVDC,Viana Do Castelo,41.6833,-8.8,PT,Portugal
+QADOH,Doha,29.3833,47.8,QA,Qatar
+QAHAL,Halul Island,25.6667,52.4167,QA,Qatar
+QARLF,Ras Lafan,25.9333,51.6167,QA,Qatar
+QAUMS,Umm Said (Mesaieed),24.9,51.5667,QA,Qatar
+REPDG,Port Reunion (Pointe des Galets),20.9167,55.2833,RE,Réunion
+ROBRA,Braila,45.25,27.9833,RO,Romania
+ROCND,Constantza,44.1667,28.65,RO,Romania
+ROMAG,Mangalia,43.8167,28.5833,RO,Romania
+ROSUL,Sulina,45.1667,29.6667,RO,Romania
+RUKHO,Kholmsk,47.05,142.0833,RU,Russia
+RULED,St Petersburg,59.8833,30.2167,RU,Russia
+RUMMK,Murmansk,68.95,33.1667,RU,Russia
+RUNJK,Nakhodka,42.8,132.8833,RU,Russia
+RUNVG,Novorossiysk,44.7167,37.7833,RU,Russia
+RUTUA,Tuapse,44.1,39.0667,RU,Russia
+RUVVO,Vladivostok,43.1667,132.0,RU,Russia
+RUVYG,Vyborg,60.7,28.7333,RU,Russia
+SADHU,Dhuba,27.35,35.7,SA,Saudi Arabia
+SADMN,Dammam,26.5,50.2,SA,Saudi Arabia
+SAGIZ,Gizan,16.9,42.4833,SA,Saudi Arabia
+SAJED,Jeddah,21.4667,39.1667,SA,Saudi Arabia
+SAJUB,Jubail,27.0667,49.6667,SA,Saudi Arabia
+SARAB,Rabigh,22.7333,38.9833,SA,Saudi Arabia
+SARAM,Ras al Mishab,28.1,48.6167,SA,Saudi Arabia
+SARTA,Ras Tanura,26.65,50.1667,SA,Saudi Arabia
+SAYNB,Yanbu,24.0833,38.05,SA,Saudi Arabia
+SBHIR,Honiara,9.4167,159.95,SB,Solomon Islands
+SBNOR,Noro,-9.4333,159.95,SB,Solomon Islands
+SBVIU,Viru Harbour,8.5,157.7167,SB,Solomon Islands
+SBXYA,Yandina,-9.4333,159.95,SB,Solomon Islands
+SCPOV,Port Victoria,4.6167,55.4667,SC,Seychelles
+SDPZU,Port Sudan,19.6167,37.2167,SD,Sudan
+SEGOT,Gothenburg (Goteborg),57.7,11.95,SE,Sweden
+SEGVX,Gavle,60.6833,17.1833,SE,Sweden
+SEHAD,Halmstad,56.6667,12.8667,SE,Sweden
+SEKAN,Karlshamn,56.1667,14.8667,SE,Sweden
+SEKLR,Kalmar,56.6667,16.3333,SE,Sweden
+SEMMA,Malmo,55.6167,13.0,SE,Sweden
+SESDL,Sundsvall,62.4167,17.3333,SE,Sweden
+SESOL,Solvesborg,56.05,14.5833,SE,Sweden
+SESTO,Stockholm,59.3167,18.05,SE,Sweden
+SGSIN,Singapore,1.2667,103.8333,SG,Singapore
+SHASI,Georgetown,-7.9333,-14.4167,SH,Saint Helena
+SHSHN,Jamestown,15.9333,5.7167,SH,Saint Helena
+SIIZO,Izola,45.5167,13.6833,SI,Slovenia
+SIKOP,Koper,45.5167,13.7333,SI,Slovenia
+SIPIR,Piran,45.5167,13.6,SI,Slovenia
+SLFNA,Freetown,8.5,-13.2333,SL,Sierra Leone
+SLPEP,Pepel,8.5667,-13.05,SL,Sierra Leone
+SNDKR,Dakar,14.6667,-17.4333,SN,Senegal
+SOBBO,Berbera,10.4333,45.0167,SO,Somalia
+SOKMU,Kismayu,0.3833,42.55,SO,Somalia
+SOMER,Merca,1.7167,44.7667,SO,Somalia
+SOMGQ,Mogadishu,2.0167,45.35,SO,Somalia
+SRAGI,Wageningen,5.7667,56.6833,SR,Suriname
+SRICK,Nieuw Nickerie,5.95,56.9833,SR,Suriname
+SRMOU,Moengo,5.65,54.2,SR,Suriname
+SRPBM,Paramaribo,5.8167,55.1667,SR,Suriname
+SRPRM,Paranam,5.6333,55.0833,SR,Suriname
+STSAA,Santo Antonio,1.65,7.45,ST,São Tomé and Príncipe
+STTMS,Sao Tome,0.35,6.75,ST,São Tomé and Príncipe
+RUKGD,Kaliningrad,54.8833,20.5167,RU,Russia
+SURYX,Riga,56.95,24.1,SU,Soviet Union
+SVAQJ,Acajutla,13.5833,-89.1667,SV,El Salvador
+SVCUT,Cutuco,13.5833,-89.1667,SV,El Salvador
+SYBAN,Baniyas,35.25,35.9333,SY,Syria
+TCGDT,Grand Turk Island,21.4333,-71.1333,TC,Turks and Caicos Islands
+TCPLS,Providenciales,21.5,-72.5,TC,Turks and Caicos Islands
+TGKPE,Kpeme,6.2,1.5,TG,Togo
+TGLFW,Lome,6.1333,1.2833,TG,Togo
+THBKK,Bangkok,13.4333,100.5833,TH,Thailand
+THHKT,Phuket,7.8167,98.4,TH,Thailand
+THLCH,Laem Chabang,13.0833,100.8833,TH,Thailand
+THPAN,Pattani,6.95,101.3,TH,Thailand
+THSAT,Sattahip,12.5833,100.9167,TH,Thailand
+THSGZ,Songkhla,7.2333,100.5833,TH,Thailand
+THSRI,Sriracha,13.1167,100.8667,TH,Thailand
+TNBZ,Bizerte,37.2833,9.9,TN,Tunisia
+TNGAE,Gabes,33.95,10.0667,TN,Tunisia
+TNIGN,La Goulette,36.8167,10.3,TN,Tunisia
+TNSFA,Sfax,34.7333,10.7667,TN,Tunisia
+TNSUS,Sousse,35.8333,10.6333,TN,Tunisia
+TNTUN,Tunis,36.8167,10.1833,TN,Tunisia
+TONEI,Nelafu,18.65,173.9833,TO,Tonga
+TOPAN,Pangai,19.8333,174.3833,TO,Tonga
+TOTBU,Nukualofa,21.1333,175.1833,TO,Tonga
+TRDIK,Dikili,39.0333,26.8333,TR,Turkey
+TRDRC,Derince,40.7333,29.8333,TR,Turkey
+TRGEM,Gemlik,40.4167,29.1167,TR,Turkey
+TRHOP,Hopa,41.4167,41.0,TR,Turkey
+TRIST,Istanbul,41.0167,28.9833,TR,Turkey
+TRTZX,Trabzon,41.0167,39.7667,TR,Turkey
+TTPTF,Pointe a Pierre,10.3167,-61.4833,TT,Trinidad and Tobago
+TTPTF,Point Fortin,10.2,-61.7,TT,Trinidad and Tobago
+TTPTS,Point Lisas,10.3667,-61.4833,TT,Trinidad and Tobago
+TTSCA,Scarborough,11.1833,-60.7333,TT,Trinidad and Tobago
+TTTEM,Tembladora,10.25,-61.4,TT,Trinidad and Tobago
+TVFUN,Funafuti,8.5167,179.2167,TV,Tuvalu
+TWHUN,Hualien,23.9833,121.6333,TW,Taiwan
+TWKEL,Keelung (Chilung),25.15,121.7333,TW,Taiwan
+TWKHH,Kaohsiung,22.6333,120.3,TW,Taiwan
+TWSUO,Suao,24.5833,121.85,TW,Taiwan
+TWTXG,Taichung,24.2833,120.5,TW,Taiwan
+TZDAR,Dar Es Salaam,6.8333,39.2833,TZ,Tanzania
+TZKIM,Kilwa Masoko,8.9333,39.5167,TZ,Tanzania
+TZLDI,Lindi,10.0,39.7333,TZ,Tanzania
+TZMYW,Mtwara,10.2667,40.2,TZ,Tanzania
+TZPAN,Pangani,5.45,39.0,TZ,Tanzania
+TZTGT,Tanga,5.0667,39.0,TZ,Tanzania
+UAERO,Bertyansk,46.75,36.8,UA,Ukraine
+UAKHE,Kherson,46.6167,32.6167,UA,Ukraine
+UAODS,Odessa,46.5,30.7667,UA,Ukraine
+UARNI,Reni,45.4333,28.3,UA,Ukraine
+UASVP,Sevastopol,44.6167,33.5333,UA,Ukraine
+USAOT,Anacortes,48.5167,-122.6,US,United States
+USBAL,Baltimore,39.2833,-76.5833,US,United States
+USBOS,Boston,42.35,-71.0833,US,United States
+USBPF,Beaumont,30.0833,-94.0833,US,United States
+USBTR,Baton Rouge,30.4667,-91.2,US,United States
+USCHI,Chicago,41.8333,-87.6333,US,United States
+USCHS,Charleston,32.7833,-79.9333,US,United States
+USCLE,Cleveland,41.5167,-81.7167,US,United States
+USCRP,Corpus Christi,27.8,-97.3833,US,United States
+USDET,Detroit,42.3333,-83.0333,US,United States
+USDLH,Duluth-Superior,46.7333,-92.1,US,United States
+USFRP,Freeport,28.95,-95.35,US,United States
+USHNL,Honolulu,21.3167,-157.8667,US,United States
+USHOU,Houston,29.75,-95.3333,US,United States
+USHTS,Huntington - Tri-State (WV),38.6,-95.3333,US,United States
+USILC,Wilmington (NC),34.2333,-77.95,US,United States
+USJAX,Jacksonville,30.3333,-81.6667,US,United States
+USLAX,Los Angeles,33.7167,-118.2833,US,United States
+USLCH,Lake Charles,30.2167,-93.25,US,United States
+USLGB,Long Beach,33.7667,-118.2,US,United States
+USLUA,South Louisiana,30.0,-90.5,US,United States
+USMEE,Manatee,27.5333,-82.5667,US,United States
+USMEM,Memphis,35.0667,-90.1667,US,United States
+USMIA,Miami,25.7667,-80.1667,US,United States
+USMOB,Mobile,30.6667,-88.0333,US,United States
+USMSY,New Orleans,29.95,-90.0667,US,United States
+USNYC,New York/New Jersey,40.7167,-74.0,US,United States
+USOAK,Oakland,37.8333,-122.3,US,United States
+USPDX,Portland (Oregon),45.5,-122.6667,US,United States
+USPEF,Port Everglades,26.0833,-80.1167,US,United States
+USPGL,Pascagoula,30.35,-88.5667,US,United States
+USPHL,Philadelphia,39.95,-75.1667,US,United States
+USPIT,Pittsburgh,40.75,-80.0,US,United States
+USPLA,Plaquemines (Louisiana),30.2167,-91.3,US,United States
+USPOA,Port Arthur,28.8667,-93.9333,US,United States
+USPEF2,Port Everglades,26.1,-80.15,US,United States
+USPWM,Portland (Maine),43.65,-70.7333,US,United States
+USRCH,Richmond (CA),37.9333,-122.4167,US,United States
+USRIC,Richmond (VA),37.45,-77.4167,US,United States
+USSAV,Savannah,32.0333,-81.1167,US,United States
+USSEA,Seattle,47.6,-122.3333,US,United States
+USTAC,Tacoma,47.2333,-122.4667,US,United States
+USTPA,Tampa,27.95,-82.4667,US,United States
+USTXT,Texas City,29.3667,-94.8833,US,United States
+USVDZ,Valdez,61.1167,-146.35,US,United States
+USYAK,Yakutat,59.4833,-139.8167,US,United States
+USILM,Wilmington (DE),39.75,-75.55,US,United States
+USILG,Wilmington (NC),35.25,-77.95,US,United States
+UYFZB,Fray Bentos,33.1,-58.3167,UY,Uruguay
+UYMVD,Montevideo,34.9167,-56.2167,UY,Uruguay
+UYNVP,Nueva Palmira,33.8667,-58.3333,UY,Uruguay
+UYPDU,Paysandu,32.3,-58.1,UY,Uruguay
+VCKTN,Kingstown,13.15,-61.2333,VC,Saint Vincent and the Grenadines
+VEBJV,Bajo Grande Refinery,10.5167,-71.6,VE,Venezuela
+VECUM,Cumana (Puerto Sucre),10.4667,-64.1167,VE,Venezuela
+VELAG,La Guaira,10.6333,-67.1167,VE,Venezuela
+VELSV,La Salina,10.3667,-71.45,VE,Venezuela
+VEMAR,Maracaibo,10.7,-71.65,VE,Venezuela
+VEMTV,Matanzas,8.3,-62.8333,VE,Venezuela
+VEPBL,Puerto Cabello,10.4833,-68.0167,VE,Venezuela
+VEPCN,Punta Cardon,11.6333,-70.2333,VE,Venezuela
+VEPCZ,Puerto La Cruz,10.2167,-64.6333,VE,Venezuela
+VEPLA,Palua,8.3667,-62.7,VE,Venezuela
+VICTD,Christiansted,17.75,-64.75,VI,United States Virgin Islands
+VILIB,Limetree Bay,17.6833,-64.75,VI,United States Virgin Islands
+VISTT,St. Thomas,18.3333,-64.9333,VI,United States Virgin Islands
+VNDAD,Danang,16.1,108.3,VN,Vietnam
+VNHON,Hon Gay,20.95,107.1,VN,Vietnam
+VNHPH,Haiphong,20.8667,106.6833,VN,Vietnam
+VNNHA,Nha Trang,12.2,109.2167,VN,Vietnam
+VNSGN,Ho Chi Minh City,10.8333,106.75,VN,Vietnam
+VNSON,Son Duong (Lach Huyen),20.85,106.8,VN,Vietnam
+VUSAN,Santo,15.5167,167.1833,VU,Vanuatu
+VUVLI,Port Vila,17.75,168.3,VU,Vanuatu
+YEADE,Aden,12.8,44.9,YE,Yemen
+YEFOA,Al Fazzah,12.75,44.9167,YE,Yemen
+YEHOD,Hodeldah,14.8,42.9167,YE,Yemen
+YEMKX,Mukalla,14.5167,49.1167,YE,Yemen
+YEMOK,Mokha,13.35,43.2,YE,Yemen
+YEMUK,Mukalla,14.5167,49.1167,YE,Yemen
+ZACPT,Cape Town,33.9,18.4333,ZA,South Africa
+ZADUR,Durban,29.8833,31.0333,ZA,South Africa
+ZAMZY,Mossel Bay,34.1667,22.15,ZA,South Africa
+ZAPLZ,Port Elizabeth,33.95,25.65,ZA,South Africa
+ZARCB,Richards Bay,28.8,32.0333,ZA,South Africa
+ZASDB,Saldanha Bay,33.0333,17.9667,ZA,South Africa
+ZRBNW,Banana,3.4333,15.0,ZR,Zaire
+ZRBOA,Boma,3.2,15.05,ZR,Zaire
+ZWBEI,Beira Corridor,-19.8333,34.8333,ZW,Zimbabwe
+MYLDU,Lahad Datu,5.0136,118.355,MY,Malaysia
+TRISK,Iskenderun,36.6,36.18,TR,Turkey
+USASF,Ashtabula,41.9,-80.8,US,United States
+ESGIJ,Gijon,43.55,-5.6667,ES,Spain
+EGPSE,Port Said East,31.2667,32.3167,EG,Egypt
+CNTXG,Xingang,39.0833,117.3667,CN,China
+AEJEA,Jebel Ali,25.0,55.0833,AE,United Arab Emirates
+CNYTN,Yantian (Shenzhen),22.5667,114.25,CN,China
+INMUN,Mundra,22.7667,69.7167,IN,India
+OMSUH,Sohar,24.5,56.6333,OM,Oman
+LKHBA,Hambantota,6.1333,81.1167,LK,Sri Lanka
+MYPKG,Port Klang North (Westports),3.0,101.4,MY,Malaysia
+IDJKT,Tanjung Priok Expansion,-6.1,106.8833,ID,Indonesia
+VNSON,Son Duong (Lach Huyen),20.85,106.8,VN,Vietnam
+PAPAN,Panama Canal (Atlantic),9.3667,-79.9167,PA,Panama
+PAPAC,Panama Canal (Pacific),8.9167,-79.5833,PA,Panama
+USLGB2,Long Beach Middle Harbor,33.7667,-118.2167,US,United States
+RUVVO2,Vostochny,42.7333,133.0833,RU,Russia
+MZPMA,Maputo Expansion,-25.9667,32.5667,MZ,Mozambique
+TZDAR2,Bagamoyo,-6.4333,38.9,TZ,Tanzania
+BRSSZ2,Santos Brasil Terminal,-23.9833,-46.3,BR,Brazil
+CLSAC,San Antonio Expansion,-33.5833,-71.6167,CL,Chile
+FRLEH2,Port 2000 (Le Havre),49.4833,0.1167,FR,France
+NLRTM2,Maasvlakte II,51.95,4.05,NL,Netherlands
+BEZEE2,Zeebrugge Deepwater,51.3333,3.2167,BE,Belgium
+ESVLC2,Valencia Mediterranean Terminal,39.45,-0.3167,ES,Spain
+ITGOA2,Vado Ligure,44.2667,8.4333,IT,Italy
+TRAMB,Ambarli,40.9833,28.6833,TR,Turkey
+EGSOK,Sokhna Port,29.65,32.35,EG,Egypt
+SAJED2,King Abdullah Port,22.4167,39.1,SA,Saudi Arabia
+QAHAM,Hamad Port,25.9167,51.5333,QA,Qatar
+INVPT,Visakha Container Terminal,17.6833,83.3,IN,India
+PKQCT,Qasim International Container Terminal,24.7833,66.9833,PK,Pakistan
+BDCGP2,Chittagong New Mooring,22.3167,91.8,BD,Bangladesh
+RUPRI,Primorsk,60.35,28.6167,RU,Russia
+KZAKT,Aktau,43.65,51.1667,KZ,Kazakhstan
+AZALAT,Alyat,40.0,49.4667,AZ,Azerbaijan
+GTLCT,Lom Container Terminal,6.1333,1.2833,GT,Guatemala
+CILOS,San Pedro,5.2333,-3.7333,CI,Ivory Coast
+GHTEM2,Tema Expansion,5.6167,0.0167,GH,Ghana
+NGAPP,Apapa Deepwater,6.45,3.3667,NG,Nigeria
+MAPTM,Tanger Med,35.9,-5.4833,MA,Morocco
+DZDJZ,Djen Djen,36.8333,5.7667,DZ,Algeria
+MRLBR,Monrovia Freeport,6.3333,-10.7833,MR,Mauritania
+SNDKR2,Dakar Deepwater,14.6667,-17.4333,SN,Senegal
+TNDJE,Djenein,33.5667,10.75,TN,Tunisia
+ILSOD,Sodom (Dead Sea),31.0,35.5,IL,Israel
+YEFOA,Al Fazzah,12.75,44.9167,YE,Yemen
+KEMSA,Mombasa New Port,-4.05,39.6667,KE,Kenya
+TZDAR3,Bagamoyo SEZ,-6.4333,38.9,TZ,Tanzania
+MZMAC,Macuse,-16.25,39.75,MZ,Mozambique
+AOLAD2,Luanda New Port,-8.8,13.25,AO,Angola
+GHSEK,Sekondi-Takoradi,4.8833,-1.75,GH,Ghana
+CMMOU,Moudi,-4.0167,9.6667,CM,Cameroon
+GNSNK,Conakry Deepwater,9.5167,-13.7167,GN,Guinea
+SLLUN,Lungi,8.6167,-13.05,SL,Sierra Leone
+LRBCH,Buchanan Expansion,5.8833,-10.05,LR,Liberia
+CMKRI,Kribi Deepwater,2.9333,9.9333,CM,Cameroon
+TGLFW2,Lomé Expansion,6.1333,1.2833,TG,Togo
+BJBJO,Boankra,6.7167,-1.5167,BJ,Benin
+ZWBEI,Beira Corridor,-19.8333,34.8333,ZW,Zimbabwe
+MZNCZ,Nacala-a-Velha,-14.5167,40.6833,MZ,Mozambique
+TZTAN,Tanga Expansion,-5.0667,39.1,TZ,Tanzania
+KESYV,Shimoni,-4.65,39.3833,KE,Kenya
+MGANT,Antsiranana,-12.25,49.2833,MG,Madagascar
+MZINH2,Inhambane SEZ,-23.8667,35.4,MZ,Mozambique
+SDSAW,Sawakin,19.1,37.3333,SD,Sudan
+ERMAS,Massawa,15.6167,39.4667,ER,Eritrea
+SOBBO2,Berbera Expansion,10.4333,45.0167,SO,Somalia
+DJJBD,Djibouti Doraleh,11.5833,43.0667,DJ,Djibouti
+KEKPA,Kipini,-2.5167,40.5333,KE,Kenya
+MZPEM,Pemba SEZ,-12.9667,40.5167,MZ,Mozambique
+TZMTW,Mtwara Expansion,-10.2667,40.2,TZ,Tanzania
+GWWIN,Winneba,5.3333,-0.6167,GW,Guinea-Bissau
+SLPMB,Pepel Expansion,8.5667,-13.05,SL,Sierra Leone
+GNKMS,Kamsar Expansion,10.65,-14.6167,GN,Guinea
+CIVIT,San Pedro Expansion,4.7333,-6.6333,CI,Ivory Coast
+TGBUC,Buchanan Expansion,5.8833,-10.05,TG,Togo
+MRLBR2,Monrovia Greenfield,6.3167,-10.7833,MR,Mauritania
+SNDKR3,Ndayane,14.5,-17.2333,SN,Senegal
+MZINH3,Inhambane Gas Terminal,-23.8667,35.4,MZ,Mozambique
+GTTKR,Takoradi Expansion,4.8833,-1.75,GT,Guatemala
+CMPVN,Port Victoria,-4.6167,55.45,CM,Cameroon
+MUSIR,Sirou,-20.15,57.5,MU,Mauritius
+MZNCZ2,Nacala LNG Terminal,-14.5167,40.6833,MZ,Mozambique
+TZTZX,Tanzania Zanzibar,-6.1667,39.1833,TZ,Tanzania
+KEMTW,Mtwapa,-3.9333,39.75,KE,Kenya
+ESCAD,Cadiz,36.5167,-6.2667,ES,Spain
+ESCAR,Cartagena,37.6167,-0.9833,ES,Spain
+ESCAS,Castellon,39.9667,0.0333,ES,Spain
+ESHUV,Huelva,37.2667,-6.9333,ES,Spain
+ESPAS,Pasajes,43.3333,-1.9167,ES,Spain
+ESSDR,Santander,43.4667,-3.8,ES,Spain
+ESTAR,Tarragona,41.0833,1.25,ES,Spain
+ESVGO,Vigo,42.2333,-8.7167,ES,Spain
+ESVLC,Valencia,39.45,-0.3167,ES,Spain
+JMOCJ,Ocho Rios,18.4167,-77.9333,JM,Jamaica
+PHIGN,Iligan,8.1333,124.25,PH,Philippines
+TTPOS,Port of Spain,10.65,-61.5333,TT,Trinidad and Tobago
+WSAPW,Apia,13.8333,-171.75,WS,Samoa
+CNLYG,Lianyungang,34.75,119.45,CN,China
+CNXIA,Xiamen,24.45,118.0667,CN,China
+CNYZH,Yangzhou,32.4,119.4167,CN,China
+CNYNT,Yantai,37.55,121.4,CN,China
+CNNSA,Nansha,22.8,113.6,CN,China
+CNRZH,Rizhao,35.3833,119.5333,CN,China
+CNWHI,Weihai,37.5,122.1,CN,China
+CNWUZ,Wuzhou,23.4833,111.3167,CN,China
+CNZJG,Zhangjiagang,31.8667,120.4333,CN,China
+CNZOS,Zhoushan,30.0167,122.1,CN,China
+JPUKB,Kobe,34.6833,135.1833,JP,Japan
+JPNGO,Nagoya,35.0833,136.8833,JP,Japan
+JPOSA,Osaka,34.65,135.4333,JP,Japan
+JPYOK,Yokohama,35.45,139.65,JP,Japan
+KRPTK,Pyeongtaek,36.9833,126.8333,KR,South Korea
+KRUSN,Ulsan,35.5,129.3833,KR,South Korea
+KRYOS,Yeosu,34.75,127.75,KR,South Korea
+MYPKG,Port Klang,3.0,101.4,MY,Malaysia
+MYTPP,Tanjung Pelepas,1.3667,103.55,MY,Malaysia
+IDBLW,Belawan,3.7833,98.6833,ID,Indonesia
+IDMAK,Makassar,-5.1167,119.4167,ID,Indonesia
+IDPNJ,Panjang,-5.4667,105.3167,ID,Indonesia
+IDPJG,Tanjung Priok,-6.1,106.8833,ID,Indonesia
+THBKK,Bangkok,13.75,100.5167,TH,Thailand
+THLCH,Laem Chabang,13.0833,100.8833,TH,Thailand
+VNHPH,Haiphong,20.8667,106.6833,VN,Vietnam
+VNSGN,Ho Chi Minh City,10.7667,106.7333,VN,Vietnam
+VNDAN,Da Nang,16.0667,108.2333,VN,Vietnam
+LKCMB,Colombo,6.95,79.85,LK,Sri Lanka
+BDCGP,Chittagong,22.3,91.8,BD,Bangladesh
+PKBQM,Port Qasim,24.7667,67.35,PK,Pakistan
+PKKHI,Karachi,24.85,66.9833,PK,Pakistan
+INBOM,Mumbai,18.95,72.95,IN,India
+INMAA,Chennai,13.1,80.2833,IN,India
+INNSA,Nhava Sheva,18.95,72.95,IN,India
+INVTZ,Visakhapatnam,17.6833,83.2333,IN,India
+INCOK,Kochi,9.9667,76.2667,IN,India
+INIXE,Mundra,22.75,69.7,IN,India
+AEJEA,Jebel Ali,25.0167,55.0667,AE,United Arab Emirates
+AEKLF,Khor Fakkan,25.35,56.3667,AE,United Arab Emirates
+AEFJR,Fujairah,25.1167,56.35,AE,United Arab Emirates
+SADMM,Dammam,26.4333,50.1,SA,Saudi Arabia
+SAJED,Jeddah,21.4833,39.1833,SA,Saudi Arabia
+OMSLR,Salalah,17.0167,54.0833,OM,Oman
+QADOH,Doha,25.2833,51.5333,QA,Qatar
+KWSWK,Shuwaikh,29.35,47.9333,KW,Kuwait
+IRBND,Bandar Abbas,27.1333,56.2167,IR,Iran
+IQBSR,Basra,30.5167,47.8167,IQ,Iraq
+IQUMQ,Umm Qasr,30.0333,47.9333,IQ,Iraq
+EGALY,Alexandria,31.1833,29.9167,EG,Egypt
+EGPSD,Port Said,31.2667,32.3,EG,Egypt
+EGDAM,Damietta,31.4667,31.75,EG,Egypt
+MAAGA,Agadir,30.4167,-9.6167,MA,Morocco
+MACAS,Casablanca,33.6,-7.6167,MA,Morocco
+MAPTM,Tanger Med,35.8833,-5.5,MA,Morocco
+ZADUR,Durban,-29.8667,31.05,ZA,South Africa
+ZACPT,Cape Town,-33.9167,18.4333,ZA,South Africa
+KEMBA,Mombasa,-4.05,39.6667,KE,Kenya
+TZDAR,Dar es Salaam,-6.8167,39.2833,TZ,Tanzania
+NGAPP,Apapa,6.45,3.3667,NG,Nigeria
+NGTIN,Tin Can Island,6.4333,3.35,NG,Nigeria
+CIABJ,Abidjan,5.25,-4.0167,CI,Ivory Coast
+GHTEM,Tema,5.6167,0.0167,GH,Ghana
+SNDKR,Dakar,14.6833,-17.45,SN,Senegal
+AOLAD,Luanda,-8.8333,13.2333,AO,Angola
+MZMPM,Maputo,-25.9667,32.5667,MZ,Mozambique
+MZBEW,Beira,-19.8333,34.8333,MZ,Mozambique
+TZZAN,Zanzibar,-6.1667,39.2,TZ,Tanzania
+DJJIB,Djibouti,11.6,43.1333,DJ,Djibouti
+AUBNE,Brisbane,-27.4667,153.0333,AU,Australia
+AUMEL,Melbourne,-37.85,144.9333,AU,Australia
+AUSYD,Sydney,-33.8667,151.2,AU,Australia
+AUFRE,Fremantle,-32.05,115.75,AU,Australia
+AUADL,Adelaide,-34.9333,138.5,AU,Australia
+NZAKL,Auckland,-36.85,174.7667,NZ,New Zealand
+NZWLG,Wellington,-41.2833,174.7833,NZ,New Zealand
+NZLYT,Lyttelton,-43.6,172.7167,NZ,New Zealand
+PAPAC,Balboa,8.95,-79.5667,PA,Panama
+PACTB,Cristobal,9.35,-79.9167,PA,Panama
+JMKIN,Kingston,17.9667,-76.8,JM,Jamaica
+DOMUC,Caucedo,18.4167,-69.6333,DO,Dominican Republic
+DOHAI,Rio Haina,18.4167,-70.0,DO,Dominican Republic
+BSBAH,Freeport,26.5167,-78.7667,BS,Bahamas
+BSNAS,Nassau,25.0833,-77.35,BS,Bahamas
+CUHAV,Havana,23.1333,-82.35,CU,Cuba
+CUMZO,Manzanillo,20.3333,-77.1167,CU,Cuba
+SVAQJ,Acajutla,13.5833,-89.8333,SV,El Salvador
+SVCUT,La Union,13.3333,-87.8167,SV,El Salvador
+GTPBR,Puerto Barrios,15.7167,-88.5833,GT,Guatemala
+HNPCR,Puerto Cortes,15.8333,-87.95,HN,Honduras
+NICLF,Corinto,12.4833,-87.1667,NI,Nicaragua
+PAONX,Colon,9.3667,-79.9,PA,Panama
+PECLL,Callao,-12.05,-77.15,PE,Peru
+CLVAP,Valparaiso,-33.0333,-71.6167,CL,Chile
+CLSAI,San Antonio,-33.5833,-71.6167,CL,Chile
+ARBUE,Buenos Aires,-34.6,-58.3667,AR,Argentina
+BRSSZ,Santos,-23.95,-46.3,BR,Brazil
+BRRIO,Rio de Janeiro,-22.9,-43.2,BR,Brazil
+BRPNG,Paranagua,-25.5,-48.5,BR,Brazil
+BRFOR,Fortaleza,-3.7167,-38.4833,BR,Brazil
+BRPEC,Pecém Port,-3.5333,-38.7833,BR,Brazil
+BRVDC,Vitória do Conquista,-14.8667,-40.8333,BR,Brazil
+OMSLL,Salalah,17.0167,54.0833,OM,Oman
+IDBIT,Bitung,1.45,125.1833,ID,Indonesia
+IDBPN,Balikpapan,-1.25,116.8333,ID,Indonesia
+ESALG,Algeciras,36.1167,-5.45,ES,Spain
+PAMIT,Mitú,1.2,-70.1667,PA,Panama
+BRIGI,Ilhéus,-14.7833,-39.05,BR,Brazil
+MMTLA,Thilawa,16.85,96.0167,MM,Myanmar
+PABLB,Balboa,8.95606,-79.56777,PA,Panama
+ECPSJ,Posorja,-2.70815,-80.24097,EC,Ecuador
+TRCKZ,Canakkale,40.15,26.4,TR,Turkey
+TRKFZ,Izmit Korfezi,40.75,29.75,TR,Turkey
+TRIZM,Izmir,38.44,27.15,TR,Turkey
+FRFOS,Fos sur Mer,43.4,4.89,FR,France
+ISGRT,Grundartangi,64.36,-21.77,IS,Iceland
+ESLEI,Almeria,36.83,-2.46,ES,Spain
+PYTER,Asuncion Terport Villeta,-25.61,-57.61,PY,Paraguay
+BRITJ,Itajai,-26.9078,-48.662,BR,Brazil
+TRUSK,Uskudar,41.02,29.05,TR,Turkey
+TRAMR,Ambarli,40.9667,28.6833,TR,Turkey
+LYKHO,Khoms,32.65,14.2667,LY,Libya
+GBSSH,South Shields,54.9986,-1.4323,GB,United Kingdom
+DOCAU,Caucedo,18.4244,-69.6292,DO,Dominican Republic
+PACSO,Coco Solo,9.3667,-79.8833,PA,Panama
+GBLGP,London Gateway,51.5053,0.4903,GB,United Kingdom
+PAPCN,Panama Canal,9.0677,-79.6703,PA,Panama
+ITCVV,Civitavecchia,42.099,11.782,IT,Italy
+USEWR,Newark,40.6833,-74.15,US,United States
+CRPTC,Puerto Caldera,9.9127,-84.7181,CR,Costa Rica
+AERKT,Ras Al Khaimah,25.6667,55.6,AE,United Arab Emirates
+BZBGK,Big Creek,16.5167,-88.3667,BZ,Belize
+SEHEL,Helsingborg,56.05,12.7,SE,Sweden
+LVRIX,Riga,56.95,24.1,LV,Latvia
+PKKIA,Kiamari Karachi,24.8167,66.9833,PK,Pakistan
+ITCAG,Cagliari,39.25,9.0833,IT,Italy
+KRKAN,Gwangyang,34.7333,127.75,KR,South Korea
+VNVUT,Vung Tau,10.35,107.0667,VN,Vietnam
+CNSHK,Shekou,22.4667,113.8833,CN,China
+MXATM,Altamira,22.4,-97.9333,MX,Mexico
+CDMAT,Matadi,-5.8167,13.45,CD,Democratic Republic of the Congo
+KHKOS,Sihanoukville,10.6333,103.5,KH,Cambodia
+BHKBS,Bahrain,26.15,50.6167,BH,Bahrain
+KWSAA,Shuaiba,29.0333,48.1333,KW,Kuwait
+ESALC,Alicante,38.35,-0.4833,ES,Spain
+INPPV,Pipavav,20.9167,71.5167,IN,India
+SEAHU,Aarhus,56.15,10.2167,SE,Sweden
+JPTOY,Toyama,36.7667,137.2167,JP,Japan
+JPKIJ,Niigata,37.9333,139.05,JP,Japan
+UAILK,Chornomorsk,46.3,30.6667,UA,Ukraine
+IDTRK,Tarakan,3.3167,117.6,ID,Indonesia
+SGTUAS,Tuas Mega Terminal,1.3167,103.65,SG,Singapore
+MYPKG2,Port Klang North (Westports),3.0,101.4,MY,Malaysia
+PHCGY,Cagayan de Oro,8.4833,124.6500,PH,Philippines
+USTIW,Tacoma,47.2667,-122.4000,US,United States
+GBIMM,Immingham,53.6167,-0.1833,GB,United Kingdom
+THSGZ,Songkhla,7.2167,100.5667,TH,Thailand
+NZPOE,Port Chalmers,-45.8167,170.6167,NZ,New Zealand
+CLMJS,Mejillones,-23.1000,-70.4500,CL,Chile
+PAARR,Arraijan,8.9500,-79.6500,PA,Panama
+SENRK,Norrköping,58.5833,16.1833,SE,Sweden

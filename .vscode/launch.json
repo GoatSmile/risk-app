@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/Users/nt/Projects/risk-app/risk-env/bin/streamlit",
+            "args": [
+                "run",
+                "risk-app-p.py",
+                "--server.port",
+                "8502",
+                "--logger.level=debug"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

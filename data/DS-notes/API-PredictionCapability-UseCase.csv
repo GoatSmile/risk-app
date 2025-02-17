@@ -1,0 +1,7 @@
+"API","Prediction Capability","Use Case"
+"Meteomatics Climate","- Storm trajectory models
+- Wave height predictions","Reroute suggestions for vessels nearCLVAP(Valparaiso)"
+"RightRoute Weather","- Speed reduction analytics
+- Accident probability","Calculate fuel burn increases in rough seas"
+"PortLog Pro","- Unpaid time estimation
+- Port congestion analytics","Predict demurrage risks forCNSHA(Shanghai) calls"
